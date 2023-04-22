@@ -41,5 +41,5 @@ Install libraries
 ## Run
 ```bash
   # Running Scraper File..
-  Data-Analysis-Top-Movie-Streaming.ipynb  #File inside the folder 
+  Data_Analysis_Top_Movie_Streaming.ipynb  #File inside the folder 
 ```
